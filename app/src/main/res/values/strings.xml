@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSensorMonitor</string>
+    <string name="action_settings">Settings</string>
+</resources>
